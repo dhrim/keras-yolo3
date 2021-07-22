@@ -1,3 +1,12 @@
+# keras-yolo3 for tensorflow 2.x
+
+forked from https://github.com/qqwweee/keras-yolo3
+
+updated for working on tensorflow 2.x
+
+원 리파지터리가 tensorflow 2.x에서 동작안하는 것을 tensorflow 2.x에서 동작하도록 픽스함.
+
+
 # keras-yolo3
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
